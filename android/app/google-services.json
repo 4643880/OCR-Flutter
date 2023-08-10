@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36922634622",
+    "project_id": "img-text-editor-app",
+    "storage_bucket": "img-text-editor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36922634622:android:0346e1f77ba73aa8bd432f",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36922634622-v38rphfmpsmcj1kmv1d1qkltg0f05dus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdu2MKTg4kTUjquOvDL-7PVY9jJ40beY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36922634622-v38rphfmpsmcj1kmv1d1qkltg0f05dus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
